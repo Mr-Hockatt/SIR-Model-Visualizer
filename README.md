@@ -25,7 +25,7 @@ The table shows a preview of the numerical solution of the SIR model. Complete d
 ## Requirements
 
 <ul>
-  <li><b>Csv</b></li>
+  <li><b>CSV</b></li>
   <li><b>Drawnow</b> for graphing purposes.</li>
   <li><b>Matplotlib</b></li>
   <li><b>Numpy</b></li>
