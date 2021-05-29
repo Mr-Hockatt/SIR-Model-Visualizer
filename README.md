@@ -34,4 +34,4 @@ The table shows a preview of the numerical solution of the SIR model. Complete d
 </ul>
 
 ## Keep in mind (Disclaimer)
-Although this project was made for Russia's population (approximately 146800000 at the time of making) this parameter can be easily modified in the <b>Main Program.py</b> file, line 114 under the variable <b>N</b>. The rest stays the same and works fine.
+Although this project was made for Russia's population (approximately 146M at the time of making) this parameter can be easily modified in the <b>Main Program.py</b> file, line 114 under the variable <b>N</b>. The rest stays the same and works fine.
