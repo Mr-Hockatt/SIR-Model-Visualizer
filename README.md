@@ -23,7 +23,6 @@ The table shows a preview of the numerical solution of the SIR model. Complete d
 ![calculation_table](https://user-images.githubusercontent.com/53312754/120086717-0459d680-c0a7-11eb-8fb6-8f610789f635.jpg)
 
 ## Requirements
-
 <ul>
   <li><b>CSV</b></li>
   <li><b>Drawnow</b> for graphing purposes.</li>
@@ -33,3 +32,6 @@ The table shows a preview of the numerical solution of the SIR model. Complete d
   <li><b>Threading</b></li>
   <li><b>Tkinter</b></li>
 </ul>
+
+## Keep in mind (Disclaimer)
+Although this project was made for Russia's population (approximately 146800000 at the time of making) this parameter can be easily modified in the <b>Main Program.py</b> file, line 114 under the variable <b>N</b>. The rest stays the same and works fine.
