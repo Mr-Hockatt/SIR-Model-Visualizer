@@ -29,6 +29,7 @@ The table shows a preview of the numerical solution of the SIR model. Complete d
   <li><b>Drawnow</b> for graphing purposes.</li>
   <li><b>Matplotlib</b></li>
   <li><b>Numpy</b></li>
+  <li><b>PIL</b> (Python Imaging Library)</li>
   <li><b>Threading</b></li>
   <li><b>Tkinter</b></li>
 </ul>
