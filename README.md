@@ -1,5 +1,6 @@
 # SIR-Model-Visualizer
-Covid-19 SIR Model Visualizer with modifiable parameters such as recovery rate, infection rate and initial infected population.
+Covid-19 SIR Model Visualizer with modifiable parameters such as recovery rate, infection rate and initial infected population.</br>
+This project was created as part of my <b>Mathematical Methods</b> class on my 4th semester of Mechatronics Engineering.
 
 
 ![model_graph](https://user-images.githubusercontent.com/53312754/120086451-acba6b80-c0a4-11eb-9cd0-52b4c8b3465a.png)
